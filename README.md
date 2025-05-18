@@ -2,9 +2,13 @@ Analizador Sintáctico
 Este proyecto es un analizador léxico, sintáctico e intérprete de un sublenguaje de JavaScript. Fue desarrollado con ANTLR4 y Node.js.
 
 🧠 Características del proyecto
+
 ✅ Verifica si la entrada es válida.
+
 🌲 Muestra el árbol de derivación.
+
 📄 Genera una tabla de tokens.
+
 🧮 Interpreta y ejecuta el código si es válido.
 
 📁 Estructura del proyecto
