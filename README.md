@@ -11,9 +11,12 @@ Este proyecto es un analizador léxico, sintáctico e intérprete de un sublengu
 1-Clonar el repositorio 
 git clone https://github.com/jowy0/52035.git
 cd 52035
+
 2-Instalar Dependencias
 npm install
+
 3-Generar los archivos de ANTLR 
 java -jar "antlr-4.13.2-complete (3).jar" -Dlanguage=JavaScript -visitor -o generated javas.g4
+
 4-Ejecutar el analizador con un archivo de entrada
 node index.js
